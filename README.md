@@ -8,6 +8,17 @@ A simple tool that automatically clicks your mouse for you. Perfect for repetiti
 - **Terminal** (comes with your Mac)
 - **Internet connection** (to download PowerShell)
 
+## First: Extract the .zip File
+
+If you downloaded the auto-clicker as a `.zip` file:
+
+1. **Find the .zip file** - Usually in your Downloads folder
+2. **Double-click it** - Your Mac will automatically extract (unzip) it
+3. **A new folder will appear** - This is the auto-clicker folder
+4. **Remember where it is** - You'll need this path for the next step
+
+That's it! Mac extracts .zip files automatically. You don't need any special app.
+
 ## Installation (One-Time Setup)
 
 ### Step 1: Open Terminal
